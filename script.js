@@ -64,7 +64,7 @@ function perfil1() {
   window.location = "https://github.com/brandonvega16/";
 }
 function perfil2() {
-  window.location = "https://github.com/brandonvega16/";
+  window.location = "https://github.com/kriz96/";
 }
 function facebook() {
   window.location = "https://www.facebook.com/Sistemas-Computacionales-1558077454502662";
