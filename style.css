@@ -73,7 +73,11 @@ body{
 }
 
 .menu h5{
-  margin: 0 30px;
+  /*margin: 0 30px;*/
+  margin-top: -10px;
+  margin-bottom: 0px;
+  margin-right: -50px;
+  margin-left: 10px;
   text-transform: uppercase;
   float: left;
   font-weight: 300;

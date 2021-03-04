@@ -33,7 +33,7 @@ $(document).ready(function(){
       $('.logo').css({"color":"#354757"});
     } else {
       $('.nav').removeClass('fixed');
-      $('.menu a').css({"color":"#fff"});
+      $('.menu a').css({"color":"#BABCBD"});
       $('.logo').css({"color":"#BABCBD"});
     }
   }); 
